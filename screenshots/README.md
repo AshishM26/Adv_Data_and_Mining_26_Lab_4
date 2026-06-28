@@ -1,6 +1,25 @@
 # Screenshots Checklist
 
-- [ ] 01_dataset_head.png
-- [ ] 02_dataset_summary.png
-- [ ] 03_missing_values.png
-- [ ] .._final_observations
+- [x] 01_dataset_head.png
+- [x] 02_dataset_summary.png
+- [x] 03_missing_values.png
+- [x] 04_target_distribution.png
+- [x] 05_feature_target_correlation.png
+- [x] 06_bmi_vs_target.png
+- [x] 07_train_test_split.png
+- [x] 08_simple_linear_regression_line.png
+- [x] 09_simple_actual_vs_predicted.png
+- [x] 10_multiple_actual_vs_predicted.png
+- [x] 11_multiple_coefficients.png
+- [x] 12_polynomial_regression_curves.png
+- [x] 13_polynomial_degree_r2.png
+- [x] 14_ridge_alpha_rmse.png
+- [x] 15_lasso_alpha_rmse.png
+- [x] 16_ridge_lasso_coefficients.png
+- [x] 17_ridge_actual_vs_predicted.png
+- [x] 18_lasso_actual_vs_predicted.png
+- [x] 19_cross_validation.png
+- [x] 20_model_comparison_rmse.png
+- [x] 21_model_comparison_r2.png
+- [x] 22_train_vs_test_r2.png
+- [x] 23_final_observations.png
